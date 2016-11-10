@@ -1,0 +1,21 @@
+# EzKitz configuration file!
+# Plugin Version: BETA-5
+# Config. Version: BETA-1
+
+# Number of rows of the GUI (Must be multiple of 9)
+rows: 9
+
+# When a player receives a kit
+kitReceived: "&2&lSUCCESS &aKit received!"
+
+# Title of the kits menu
+menuTitle: "&3&l[KITS]"
+
+# When a kit is not available
+kitFailed: "&4&lERROR &cThis kit is not available yet!"
+
+# When players inventory is full (COOMING SOON)
+invFull: "&4&lCOOMING SOON"
+
+# When the console executes /kit
+consoleExecute: "&4&lERROR &cOnly players can execute this command!"

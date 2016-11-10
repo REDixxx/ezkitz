@@ -1,0 +1,10 @@
+main: core.Main
+name: EzKitz
+version: BETA-5
+author: REDixx
+
+commands:
+    kits:
+        usage: /<command>
+        description: Main plugin command.
+        aliases: [kit]
